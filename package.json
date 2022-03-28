@@ -1,0 +1,28 @@
+{
+  "name": "image-hoster",
+  "version": "1.0.0",
+  "description": "This is an open-source Image Uploader.",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "node app/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsEmil/image-uploader.git"
+  },
+  "keywords": [
+    "ShareX",
+    "Hoster",
+    "Image",
+    "Uploader"
+  ],
+  "author": "Emil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IsEmil/image-uploader/issues"
+  },
+  "homepage": "https://github.com/IsEmil/image-uploader#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
