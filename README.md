@@ -17,6 +17,6 @@
 <!-- License -->
 ## License
 
-Copyright © 2022 Emil (hi@isemil.me)
+Copyright © 2022 Emil (hi@isemil.me), Liam (hi@munken.one)
 
 Distributed under the MIT License. See `LICENSE` for more information.
